@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BFLP_RahmaKasturi</string>
+    <string name="app_name">BFLP_Event</string>
+    <string-array name="tiket">
+        <item>Standar</item>
+        <item>VIP</item>
+        <item>VVIP</item>
+    </string-array>
 </resources>

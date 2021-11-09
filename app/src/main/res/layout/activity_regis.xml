@@ -22,10 +22,28 @@
             android:hint="Masukkan Nama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/etAlamat"
+            android:layout_below="@id/etnama"
+            android:textColorHint="#fff"
+            android:textColor="#fff"
+            android:hint="Masukkan Alamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/tvTGL"
+            android:layout_below="@id/etAlamat"
+            android:textColorHint="#fff"
+            android:textColor="#fff"
+            android:hint="Masukkan Tanggal Lahir"
+            android:focusable="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
         <EditText
             android:id="@+id/etusername"
-            android:layout_below="@id/etnama"
+            android:layout_below="@id/tvTGL"
             android:textColorHint="#fff"
             android:textColor="#fff"
             android:hint="username"

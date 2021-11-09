@@ -3,20 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BFLP_RahmaKasturi (2)/BFLP_RahmaKasturi/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/BFLP_RahmaKasturi (2)/BFLP_RahmaKasturi/app/src/main/res/layout/grid_item.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/drawable/border.xml" value="0.2169230769230769" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/drawable/ic_hamburger.xml" value="0.2203125" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/drawable/ic_hamburger_background.xml" value="0.2203125" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/drawable/ic_hamburger_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout-v31/activity_regis.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_admin.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_artis.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_artis_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_cek_tiket.xml" value="0.1" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_info.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_jadwal.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_peta.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_regis.xml" value="0.22" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_regis.xml" value="0.33" />
         <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_regis2.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_scan_qractivity.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/activity_tiket.xml" value="0.33" />
+        <entry key="..\:/Users/Knight/AndroidStudioProjects/BFLP_RahmaKasturi/app/src/main/res/layout/grid_item.xml" value="0.11041666666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

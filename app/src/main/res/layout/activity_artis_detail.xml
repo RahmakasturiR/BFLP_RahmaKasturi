@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222"
+    android:orientation="vertical"
+    tools:context=".ArtisDetailActivity">
+
+
+<!--    <RelativeLayout-->
+<!--        android:id="@+id/menu"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:paddingHorizontal="20dp"-->
+<!--        android:paddingTop="20dp">-->
+
+<!--    </RelativeLayout>-->
+
+
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="205dp"
+        app:autoPlay="false"
+        app:showFullScreenButton="false"
+        android:id="@+id/vd1"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/vd1"
+        android:paddingHorizontal="35dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:backgroundTint="#00000000"
+            android:id="@+id/imgband"
+            android:layout_marginTop="32px" />
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/namaband"
+            android:layout_marginTop="32px"
+            android:textSize="12pt"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_marginTop="32px"
+            android:id="@+id/tvTentang"
+            android:textAlignment="textStart"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical">-->
+
+<!--            <RelativeLayout-->
+<!--                android:id="@+id/lynamaband"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="52dp"-->
+<!--                android:background="#E84C4C">-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/namaband"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_centerVertical="true"-->
+<!--                    android:paddingLeft="9dp"-->
+<!--                    android:text="Nama Band"-->
+<!--                    android:textColor="#FFFFFF"-->
+<!--                    android:textStyle="bold" />-->
+<!--            </RelativeLayout>-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="1dp"-->
+<!--                android:background="#000000" />-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="52dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:weightSum="2">-->
+
+<!--                <RelativeLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="52dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:background="#F5F5D9">-->
+
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_centerInParent="true"-->
+<!--                        android:text="Schedule"-->
+<!--                        android:textColor="#E84C4C"-->
+<!--                        android:textStyle="bold" />-->
+<!--                </RelativeLayout>-->
+
+<!--                <RelativeLayout-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="52dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:background="#E84C4C">-->
+
+<!--                    <TextView-->
+<!--                        android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content"-->
+<!--                        android:layout_centerInParent="true"-->
+<!--                        android:text="About"-->
+<!--                        android:textColor="#FFFFFF"-->
+<!--                        android:textStyle="bold" />-->
+<!--                </RelativeLayout>-->
+<!--            </LinearLayout>-->
+<!--        </LinearLayout>-->
+    </LinearLayout>
+</RelativeLayout>
